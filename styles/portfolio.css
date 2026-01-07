@@ -216,4 +216,7 @@ gap: 24px;
 .resume-container hr {
     margin :30px 0 ;
 }
+.text-center{
+    text-align: center;
+}
 
